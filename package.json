@@ -1,0 +1,31 @@
+{
+  "name": "vue-swal2-loading-overlay",
+  "version": "1.0.0",
+  "description": "Vue.js plugin to easily add loading overlays (extends vue-sweetalert2)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickpissurno/vue-swal2-loading-overlay.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "swal2",
+    "sweet",
+    "alert",
+    "loading",
+    "overlay"
+  ],
+  "author": "Patrick Pissurno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickpissurno/vue-swal2-loading-overlay/issues"
+  },
+  "homepage": "https://github.com/patrickpissurno/vue-swal2-loading-overlay#readme",
+  "dependencies": {
+    "vue-sweetalert2": "^1.5.0"
+  }
+}
