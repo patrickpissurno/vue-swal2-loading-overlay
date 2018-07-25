@@ -62,7 +62,7 @@ You can also omit the ``` opts ``` parameter and it will use the defaults.
 Hides the loading indicator.
 
 ## Browser support
-Modern browsers with support to ES6.
+Same as [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) and [sweetalert2](https://github.com/sweetalert2/sweetalert2).
 
 ## Related projects
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - Sweet Alert 2
