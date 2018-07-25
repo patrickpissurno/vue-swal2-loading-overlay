@@ -25,7 +25,5 @@
     "url": "https://github.com/patrickpissurno/vue-swal2-loading-overlay/issues"
   },
   "homepage": "https://github.com/patrickpissurno/vue-swal2-loading-overlay#readme",
-  "dependencies": {
-    "vue-sweetalert2": "^1.5.0"
-  }
+  "dependencies": {}
 }

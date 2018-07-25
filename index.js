@@ -37,12 +37,13 @@ class LoadingOverlay {
         _options = options;
     }
 
-    show(opts = { background: 'white', color: '#3085d6' }){
+    show(opts = { background: 'white', color: '#3085d6', animation: true }){
         checkRequirements(_vue);
         _vue.$swal({
             customClass: 'swal2-loading-overlay',
             backdrop: !opts || !opts.background ? 'white' : opts.background,
             confirmButtonColor: !opts || !opts.color ? '#3085d6' : opts.color,
+            animation: !opts || opts.animation,
             onOpen: _vue.$swal.showLoading,
             allowOutsideClick: false,
             allowEscapeKey: false,
