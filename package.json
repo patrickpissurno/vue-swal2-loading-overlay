@@ -1,6 +1,6 @@
 {
   "name": "vue-swal2-loading-overlay",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue.js plugin to easily add loading overlays (extends vue-sweetalert2)",
   "main": "src/index.js",
   "repository": {
